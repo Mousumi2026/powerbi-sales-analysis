@@ -5,7 +5,8 @@ The dashboard provides insights into **revenue, orders, pizza types, and sizes**
 
 ---
 
-## 📊 Overview
+## 📊 Overview    ![Home Page](Screenshot pizza.jpg)
+
 
 The dashboard includes:
 
